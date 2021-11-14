@@ -1,0 +1,19 @@
+[info] Loading settings from plugins.sbt ...
+[info] Loading project definition from C:\Users\x03099\Documents\DONTDELETE\Classes\Cow Classes S1\CS478 Programming Languages\Homeworks\hw8a-UnBothered1\project
+[info] Loading settings from build.sbt ...
+UnBothered1
+Passed.
+Passed.
+Passed.
+Passed.
+Passed.
+Passed.
+Passed.
+Passed.
+Passed.
+Passed.
+Passed.
+Passed.
+Passed.
+Passed.
+Passed.

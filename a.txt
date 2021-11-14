@@ -1,0 +1,48 @@
+[info] Loading settings from plugins.sbt ...
+[info] Loading project definition from C:\Users\x03099\Documents\DONTDELETE\Classes\Cow Classes S1\CS478 Programming Languages\Homeworks\hw8a-UnBothered1\project
+[info] Loading settings from build.sbt ...
+UnBothered1
+Passed.
+Passed.
+FAILED: Unknown variable: y
+Program = 
+begin
+  var y := 3;
+  output(y*y);
+end
+
+FAILED: Unknown variable: z
+Program = 
+begin
+  var z := 10;
+  z := z + 5;
+  z := z + 1;
+  output(z);
+end
+
+FAILED: Unknown variable: x
+Program = 
+begin
+  var x := input();
+  output(x);
+  begin
+    var x := x + 2;
+    output(x);
+  end
+  output(x);
+end
+
+FAILED: Unknown variable: x
+Program = 
+begin
+  var x := 10;
+  if x = 10 then output(x);
+end
+
+FAILED: Unknown variable: x
+Program = 
+begin
+  var x := 11;
+  if x = 10 then output(x);
+  else output(123);
+end
